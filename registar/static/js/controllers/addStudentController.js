@@ -1,0 +1,4 @@
+function addStudentController($scope, $http) {
+
+
+}
