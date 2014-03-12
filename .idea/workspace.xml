@@ -26,7 +26,7 @@
       <file leaf-file-name="angular.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="58" selection-start="1151" selection-end="1151" vertical-scroll-proportion="4.625" vertical-offset="516" max-vertical-offset="960">
+            <state line="26" column="30" selection-start="1092" selection-end="1092" vertical-scroll-proportion="-7.5" vertical-offset="210" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="student.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="student.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/views/student.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="61" selection-end="61" vertical-scroll-proportion="0.039267015" vertical-offset="0" max-vertical-offset="382">
+            <state line="2" column="5" selection-start="75" selection-end="75" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentController.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/studentController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="7" selection-start="757" selection-end="757" vertical-scroll-proportion="0.92610836" vertical-offset="29" max-vertical-offset="495">
               <folding />
             </state>
           </provider>
@@ -62,7 +71,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="28" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="6" column="86" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -104,15 +113,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secret.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/registar/static/views/secret.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="-0.75949365" vertical-offset="0" max-vertical-offset="150">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -141,13 +141,14 @@
         <option value="$PROJECT_DIR$/lecture/api/resources.py" />
         <option value="$PROJECT_DIR$/registar/static/js/controllers/addStudentController.js" />
         <option value="$PROJECT_DIR$/registar/static/views/add_student.html" />
-        <option value="$PROJECT_DIR$/registar/static/js/app.js" />
         <option value="$PROJECT_DIR$/registar/static/views/add_project.html" />
         <option value="$PROJECT_DIR$/registar/static/js/controllers/addProjectController.js" />
-        <option value="$PROJECT_DIR$/registar/templates/angular.html" />
         <option value="$PROJECT_DIR$/registar/static/views/students.html" />
         <option value="$PROJECT_DIR$/registar/static/views/index.html" />
         <option value="$PROJECT_DIR$/registar/static/views/student.html" />
+        <option value="$PROJECT_DIR$/registar/templates/angular.html" />
+        <option value="$PROJECT_DIR$/registar/static/js/app.js" />
+        <option value="$PROJECT_DIR$/registar/static/js/controllers/studentController.js" />
       </list>
     </option>
   </component>
@@ -612,7 +613,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18612245" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18612245" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -657,11 +658,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/media_files/yeti-header_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lecture/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="480">
@@ -1230,13 +1226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="28" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registar/static/views/add_project.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="17" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="330">
@@ -1258,13 +1247,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="58" selection-start="1151" selection-end="1151" vertical-scroll-proportion="4.625" vertical-offset="516" max-vertical-offset="960">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registar/static/views/add_student.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="6" selection-start="405" selection-end="405" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="450">
@@ -1279,9 +1261,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="1092" selection-end="1092" vertical-scroll-proportion="-7.5" vertical-offset="210" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/registar/static/views/student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="61" selection-end="61" vertical-scroll-proportion="0.039267015" vertical-offset="0" max-vertical-offset="382">
+        <state line="2" column="5" selection-start="75" selection-end="75" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="86" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/studentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="7" selection-start="757" selection-end="757" vertical-scroll-proportion="0.92610836" vertical-offset="29" max-vertical-offset="495">
           <folding />
         </state>
       </provider>
