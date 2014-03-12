@@ -1,10 +1,10 @@
 <div class="jumbotron">
-    <h3>Bro, you can't handle more angular!!</h3>
+    <h3 class="ang-header">Bro, you can't handle more angular!!</h3>
     <button class="btn btn-default"><a href="#/app/">Take me to car dealership exercise!</a></button>
     <button class="btn btn-default"><a href="#/secret/">Tell me a secret!</a></button>
 </div>
 
-<div class="jumbotron">
+<div class="container">
 <form>
     <div>
         First name: <input type="text">
@@ -15,7 +15,7 @@
     </div>
 
     <div>
-        Class: <select ng-options="class.resource_url as class.title for class in classes"></select>
+        Class: <select ng-model="student.klass" ng-options="class.resource_url as class.title for class in classes"></select>
     </div>
 
     <input type="submit" value="Add Student" class="btn btn-info">

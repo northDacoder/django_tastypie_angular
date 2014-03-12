@@ -12,16 +12,14 @@ v1_api.register(StudentResource())
 v1_api.register(ClassResource())
 v1_api.register(VersionResource())
 v1_api.register(StudentProjectResource())
-
 v1_api.register(MediaResource())
 
 
 urlpatterns = patterns('',
-    # url(r'^$', 'lecture.views.presentation', name="presentation"),
 
     url(r'^api/', include(v1_api.urls)),
 
-    url(r'^app/', 'registar.views.angular', name="angular"),
+    url(r'^$', 'registar.views.angular', name="angular"),
 
     url(r'^admin/', include(admin.site.urls)),
 
