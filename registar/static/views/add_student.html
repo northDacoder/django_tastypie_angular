@@ -1,4 +1,23 @@
 <div class="jumbotron">
     <h3>Bro, you can't handle more angular!!</h3>
-    <button><a href="/app">CSS tutorial</a></button>
+    <button class="btn btn-default"><a href="/app/">Take me to car dealership exercise!</a></button>
+    <button class="btn btn-default"><a href="/secret/">Tell me a secret!</a></button>
+</div>
+
+<div class="jumbotron">
+<form>
+    <div>
+        First name: <input type="text">
+    </div>
+
+    <div>
+        Last name: <input type="text">
+    </div>
+
+    <div>
+        Class: <select ng-options="class.resource_url as class.title for class in classes"></select>
+    </div>
+
+    <input type="submit" value="Add Student" class="btn btn-info">
+</form>
 </div>
