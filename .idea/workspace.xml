@@ -77,10 +77,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tastypie_tutorial/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="41" selection-start="679" selection-end="679" vertical-scroll-proportion="0.66502464" vertical-offset="0" max-vertical-offset="510">
+            <state line="23" column="41" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/registar/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="42" selection-start="127" selection-end="127" vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
               <folding />
             </state>
           </provider>
@@ -109,6 +118,7 @@
         <option value="$PROJECT_DIR$/tastypie_tutorial/settings.py" />
         <option value="$PROJECT_DIR$/registar/templates/angular.html" />
         <option value="$PROJECT_DIR$/tastypie_tutorial/urls.py" />
+        <option value="$PROJECT_DIR$/registar/views.py" />
       </list>
     </option>
   </component>
@@ -551,13 +561,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tastypie_tutorial/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="23" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1485">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dropbox/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="34" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
@@ -1323,7 +1326,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tastypie_tutorial/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="679" selection-end="679" vertical-scroll-proportion="0.66502464" vertical-offset="0" max-vertical-offset="510">
+        <state line="23" column="41" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="42" selection-start="127" selection-end="127" vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
           <folding />
         </state>
       </provider>
