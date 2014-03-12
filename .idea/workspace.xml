@@ -44,7 +44,16 @@
       <file leaf-file-name="angular.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="30" selection-start="1808" selection-end="1808" vertical-scroll-proportion="-8.75" vertical-offset="465" max-vertical-offset="900">
+            <state line="41" column="71" selection-start="1713" selection-end="1713" vertical-scroll-proportion="-12.5" vertical-offset="315" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registar/static/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="34" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -59,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="7" column="59" selection-start="141" selection-end="141" vertical-scroll-proportion="0.2748691" vertical-offset="0" max-vertical-offset="382">
               <folding />
             </state>
           </provider>
@@ -71,7 +80,7 @@
       <file leaf-file-name="indexController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/indexController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+            <state line="3" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
@@ -86,19 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="93" selection-start="230" selection-end="230" vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tastypie_tutorial/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="41" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state line="4" column="93" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
@@ -138,10 +138,11 @@
         <option value="$PROJECT_DIR$/tastypie_tutorial/settings.py" />
         <option value="$PROJECT_DIR$/tastypie_tutorial/urls.py" />
         <option value="$PROJECT_DIR$/registar/views.py" />
-        <option value="$PROJECT_DIR$/registar/static/views/index.html" />
-        <option value="$PROJECT_DIR$/registar/templates/angular.html" />
         <option value="$PROJECT_DIR$/registar/static/js/controllers/indexController.js" />
         <option value="$PROJECT_DIR$/registar/static/js/app.js" />
+        <option value="$PROJECT_DIR$/registar/templates/angular.html" />
+        <option value="$PROJECT_DIR$/registar/static/css/index.css" />
+        <option value="$PROJECT_DIR$/registar/static/views/index.html" />
       </list>
     </option>
   </component>
@@ -313,6 +314,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -615,13 +620,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lecture/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lecture/api/resources.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="13" selection-start="890" selection-end="890" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
@@ -1368,30 +1366,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
+    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="30" selection-start="1808" selection-end="1808" vertical-scroll-proportion="-8.75" vertical-offset="465" max-vertical-offset="900">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+        <state line="4" column="93" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/indexController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state line="3" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
+    <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="93" selection-start="230" selection-end="230" vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
+        <state line="41" column="71" selection-start="1713" selection-end="1713" vertical-scroll-proportion="-12.5" vertical-offset="315" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="34" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="59" selection-start="141" selection-end="141" vertical-scroll-proportion="0.2748691" vertical-offset="0" max-vertical-offset="382">
           <folding />
         </state>
       </provider>

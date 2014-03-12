@@ -1,1 +1,3 @@
-body {margin: 0; padding: 0;}
+body {margin: 0; padding: 0; width: 100%; height: 100%;}
+#ang-header {color: rgba(255,255,255,.5); text-align: center;}
+#view-message {text-align: center;}
