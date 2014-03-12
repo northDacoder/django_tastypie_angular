@@ -17,7 +17,7 @@ v1_api.register(MediaResource())
 
 
 urlpatterns = patterns('',
-    url(r'^$', 'lecture.views.presentation', name="presentation"),
+    # url(r'^$', 'lecture.views.presentation', name="presentation"),
 
     url(r'^api/', include(v1_api.urls)),
 
