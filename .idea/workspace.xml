@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="9" selection-start="528" selection-end="528" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="585">
+            <state line="17" column="14" selection-start="545" selection-end="545" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="student.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/views/student.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="51" selection-end="51" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="135">
+            <state line="3" column="5" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="studentController.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="studentController.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/studentController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="26" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="29" max-vertical-offset="495">
+            <state line="12" column="4" selection-start="339" selection-end="339" vertical-scroll-proportion="0.44334975" vertical-offset="0" max-vertical-offset="406">
               <folding />
             </state>
           </provider>
@@ -71,7 +71,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="23" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addProjectController.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="addProjectController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/addProjectController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="26" selection-start="212" selection-end="212" vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
+            <state line="5" column="26" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -108,7 +108,9 @@
         <entry file="file://$PROJECT_DIR$/registar/static/views/secret.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="4" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
-              <folding />
+              <folding>
+                <marker date="1394658773000" expanded="true" signature="22:174" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,13 +144,13 @@
         <option value="$PROJECT_DIR$/registar/static/js/controllers/addStudentController.js" />
         <option value="$PROJECT_DIR$/registar/static/views/students.html" />
         <option value="$PROJECT_DIR$/registar/templates/angular.html" />
-        <option value="$PROJECT_DIR$/registar/static/js/controllers/studentController.js" />
-        <option value="$PROJECT_DIR$/registar/static/views/student.html" />
-        <option value="$PROJECT_DIR$/registar/static/js/app.js" />
-        <option value="$PROJECT_DIR$/registar/static/views/index.html" />
         <option value="$PROJECT_DIR$/registar/static/views/add_project.html" />
         <option value="$PROJECT_DIR$/registar/static/views/add_student.html" />
         <option value="$PROJECT_DIR$/registar/static/js/controllers/addProjectController.js" />
+        <option value="$PROJECT_DIR$/registar/static/js/app.js" />
+        <option value="$PROJECT_DIR$/registar/static/views/index.html" />
+        <option value="$PROJECT_DIR$/registar/static/views/student.html" />
+        <option value="$PROJECT_DIR$/registar/static/js/controllers/studentController.js" />
       </list>
     </option>
   </component>
@@ -606,7 +608,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="63" width="1267" height="774" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1219,13 +1221,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/views/secret.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/indexController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
@@ -1233,44 +1228,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/studentController.js">
+    <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/addProjectController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="29" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/views/student.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="51" selection-end="51" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="30" selection-start="1092" selection-end="1092" vertical-scroll-proportion="6.8333335" vertical-offset="554" max-vertical-offset="960">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="23" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="528" selection-end="528" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/views/add_project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="29" selection-start="30" selection-end="30" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="270">
+        <state line="5" column="26" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
@@ -1282,9 +1242,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/addProjectController.js">
+    <entry file="file://$PROJECT_DIR$/registar/static/views/add_project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="212" selection-end="212" vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
+        <state line="1" column="29" selection-start="30" selection-end="30" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="1092" selection-end="1092" vertical-scroll-proportion="6.8333335" vertical-offset="554" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/views/secret.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
+          <folding>
+            <marker date="1394658773000" expanded="true" signature="22:174" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="14" selection-start="545" selection-end="545" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/views/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="5" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/js/controllers/studentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="339" selection-end="339" vertical-scroll-proportion="0.44334975" vertical-offset="0" max-vertical-offset="406">
           <folding />
         </state>
       </provider>
