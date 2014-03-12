@@ -21,6 +21,8 @@ urlpatterns = patterns('',
 
     url(r'^api/', include(v1_api.urls)),
 
+    url(r'^app/', 'registar.views.angular', name="angular"),
+
     url(r'^admin/', include(admin.site.urls)),
 
     url(r'api/lecture/doc/',
