@@ -44,7 +44,7 @@
       <file leaf-file-name="angular.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="4" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.58900523" vertical-offset="420" max-vertical-offset="885">
+            <state line="45" column="30" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.5497382" vertical-offset="465" max-vertical-offset="900">
               <folding />
             </state>
           </provider>
@@ -89,7 +89,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="2" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -139,6 +139,7 @@
         <option value="$PROJECT_DIR$/tastypie_tutorial/urls.py" />
         <option value="$PROJECT_DIR$/registar/views.py" />
         <option value="$PROJECT_DIR$/registar/static/views/index.html" />
+        <option value="$PROJECT_DIR$/registar/static/js/app.js" />
         <option value="$PROJECT_DIR$/registar/templates/angular.html" />
       </list>
     </option>
@@ -608,7 +609,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2091743" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2091743" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -1392,13 +1393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registar/static/js/factory.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
@@ -1427,9 +1421,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="4" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.58900523" vertical-offset="420" max-vertical-offset="885">
+        <state line="45" column="30" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.5497382" vertical-offset="465" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
