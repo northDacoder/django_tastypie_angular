@@ -44,7 +44,7 @@
       <file leaf-file-name="angular.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="20" selection-start="716" selection-end="716" vertical-scroll-proportion="0.31413612" vertical-offset="135" max-vertical-offset="840">
+            <state line="43" column="4" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.58900523" vertical-offset="420" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -62,12 +62,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
-              <folding>
-                <marker date="1394646758000" expanded="true" signature="21:80" placeholder="..." />
-                <marker date="1394646758000" expanded="true" signature="28:56" placeholder="..." />
-                <marker date="1394646758000" expanded="true" signature="63:72" placeholder="..." />
-              </folding>
+            <state line="8" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -612,7 +608,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2091743" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2091743" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -1417,17 +1413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
-          <folding>
-            <marker date="1394646758000" expanded="true" signature="21:80" placeholder="..." />
-            <marker date="1394646758000" expanded="true" signature="28:56" placeholder="..." />
-            <marker date="1394646758000" expanded="true" signature="63:72" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registar/static/js/vendor/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="77" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29295">
@@ -1435,9 +1420,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/registar/static/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/registar/templates/angular.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="716" selection-end="716" vertical-scroll-proportion="0.31413612" vertical-offset="135" max-vertical-offset="840">
+        <state line="43" column="4" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.58900523" vertical-offset="420" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
