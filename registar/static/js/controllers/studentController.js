@@ -1,7 +1,7 @@
 function studentController($scope, $http, $routeParams) {
-    $http.get('api/v1/student/' + $routeParams.id).success(function(data){
-        console.log(data);
-        $scope.student = data.objects;
+    $http.get('api/v1/student/' + $routeParams.id + '?format=json').success(function(student){
+        console.log(student);
+        $scope.student = student.objects;
 
     }).error(function(data){
         console.log("You have an error in your code");
