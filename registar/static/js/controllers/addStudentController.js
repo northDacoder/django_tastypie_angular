@@ -6,7 +6,7 @@ function addStudentController($scope, $http) {
         });
 
     $scope.submitForm = function() {
-        $http.post('api/v1/student/?format=json', $scope.student)
+        $http.post('/api/v1/student/?format=json', $scope.student)
             .success(function(response){
                 $location.path('/');
             });
