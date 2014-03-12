@@ -6,7 +6,8 @@
 </div>
 
 <div class="container">
-<form ng-click="submitForm();">
+
+<form ng-submit="submitForm();">
     <div>
         First name: <input type="text" ng-model="student.first_name">
     </div>
@@ -16,7 +17,7 @@
     </div>
 
     <div>
-        Class: <select ng-model="student.klass" ng-options="class.resource_url as class.title for class in classes"></select>
+        Class: <select ng-model="student.klass" ng-options="class.resource_uri as class.title for class in classes"></select>
     </div>
 
     <input type="submit" value="Add Student" class="btn btn-info">
