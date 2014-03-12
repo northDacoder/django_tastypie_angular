@@ -4,4 +4,11 @@ function addStudentController($scope, $http) {
             console.log(classes);
             $scope.classes = classes.objects;
         });
+
+    $scope.submitForm = function() {
+        $http.post('api/v1/student/?format=json', $scope.student)
+            .success(function(response){
+                $location.path('/');
+            });
+    }
 }

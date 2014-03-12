@@ -5,13 +5,13 @@
 </div>
 
 <div class="container">
-<form>
+<form ng-click="submitForm();">
     <div>
-        First name: <input type="text">
+        First name: <input type="text" ng-model="student.first_name">
     </div>
 
     <div>
-        Last name: <input type="text">
+        Last name: <input type="text" ng-model="student.last_name">
     </div>
 
     <div>
