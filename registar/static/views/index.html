@@ -7,16 +7,15 @@
 </div>
 
 <ul ng-repeat="student in students" class="list-group">
-    <li> {{ student.first_name }} {{ student.last_name }}</li>
+    <a href="#/student/{{ student.id }}"><li class="list-group-item list-group-item-default"><span class="label label-info">  Name: </span> </h3>{{ student.first_name }} {{ student.last_name }}</h3></li></a>
 
     <div ng-show="student.projects"><i>Projects</i></div>
+
     <ul data-ng-repeat="project in student.projects">
-        <li>{{ project.name }}</li></i>
+        <li class="list-group-item list-group-item-default">{{ project.name }}</li></i>
     </ul>
 
 
-    <a href="#{{ student.resource_uri }}"><li class="list-group-item list-group-item-default"><span class="label label-info">  Name: </span> </h3>{{ student.first_name }} {{ student.last_name }}</h3></li></a>
-    <li><h2>{{ student.projects[0].name }}</h2></li>
 </ul>
 
 <!--
