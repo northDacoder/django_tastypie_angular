@@ -1,0 +1,9 @@
+test {
+  color: "#fff"; }
+
+.body {
+  background-color: red; }
+  .body .footer {
+    background-color: black; }
+    .body .footer a {
+      color: "#fff"; }

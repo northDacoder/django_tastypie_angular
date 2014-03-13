@@ -1,0 +1,17 @@
+$white: "#fff";
+
+test {
+  color: $white;
+}
+
+.body {
+  background-color: red;
+
+  .footer {
+    background-color: black;
+
+    a {
+      color: $white;
+    }
+  }
+}
